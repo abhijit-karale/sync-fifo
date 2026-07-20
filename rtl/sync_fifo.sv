@@ -5,7 +5,7 @@
 // -----------------------------------------------------------------------------
 module sync_fifo #(
     parameter WIDTH = 8,
-    parameter DEPTH = 16
+    parameter DEPTH = 16 
 ) (
     input  logic             clk,
     input  logic             rst_n,
