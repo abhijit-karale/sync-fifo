@@ -2,7 +2,7 @@
 // Module      : sync_fifo
 // Description : Parameterizable synchronous FIFO with full/empty flags
 // Author      : Abhijit Karale
- // -----------------------------------------------------------------------------
+// -----------------------------------------------------------------------------
 module sync_fifo #(
     parameter WIDTH = 8,
     parameter DEPTH = 16 
