@@ -1,5 +1,5 @@
  // -----------------------------------------------------------------------------
- // Module      : sync_fifo
+// Module      : sync_fifo
  // Description : Parameterizable synchronous FIFO with full/empty flags
  // Author      : Abhijit Karale
  // -----------------------------------------------------------------------------
